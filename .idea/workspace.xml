@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6d6450d-5473-4cb0-9594-fb9410dcbe3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/while_do-while/1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/if/1.1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/if/1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/if/1.10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/if/10.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/if/1.11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/if/11.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/if/1.12.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/if/12.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/if/1.13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/if/13.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/if/1.14.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/if/14.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/if/1.15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/if/15.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/if/1.2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/if/2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/if/1.3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/if/3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/if/1.4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/if/4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/if/1.5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/if/5.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/if/1.6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/if/6.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/if/1.7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/if/7.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/if/1.8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/if/8.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/if/1.9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/if/9.kt" afterDir="false" />
-    </list>
+    <list default="true" id="b6d6450d-5473-4cb0-9594-fb9410dcbe3a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667196653375</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="[feat::] Add 1 while">
+      <created>1667197459879</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667197459879</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -238,6 +227,7 @@
     <MESSAGE value="[feat::] Add 1/13 if" />
     <MESSAGE value="[feat::] Add 1/14 if" />
     <MESSAGE value="[feat::] Add 1/15 if" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 1/15 if" />
+    <MESSAGE value="[feat::] Add 1 while" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 1 while" />
   </component>
 </project>
