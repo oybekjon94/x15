@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6d6450d-5473-4cb0-9594-fb9410dcbe3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/if/1.11.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/if/1.12.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._1_11Kt">
+  <component name="RunManager" selected="Kotlin._1_12Kt">
     <configuration name="_1_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="if._1_10Kt" />
       <module name="x15" />
@@ -50,8 +49,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1_7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="if._1_7Kt" />
+    <configuration name="_1_12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="if._1_12Kt" />
       <module name="x15" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._1_12Kt" />
         <item itemvalue="Kotlin._1_11Kt" />
         <item itemvalue="Kotlin._1_10Kt" />
         <item itemvalue="Kotlin._1_9Kt" />
         <item itemvalue="Kotlin._1_8Kt" />
-        <item itemvalue="Kotlin._1_7Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667195244649</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="[feat::] Add 1/11 if">
+      <created>1667195422605</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667195422605</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -181,6 +187,7 @@
     <MESSAGE value="[feat::] Add 1/8 if" />
     <MESSAGE value="[feat::] Add 1/9 if" />
     <MESSAGE value="[feat::] Add 1/10 if" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 1/10 if" />
+    <MESSAGE value="[feat::] Add 1/11 if" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 1/11 if" />
   </component>
 </project>
