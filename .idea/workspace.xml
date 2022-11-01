@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6d6450d-5473-4cb0-9594-fb9410dcbe3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/constructor/6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/constructor/7.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._6Kt">
-    <configuration name="_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructor._2Kt" />
-      <module name="x15" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._7Kt">
     <configuration name="_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="constructor._3Kt" />
       <module name="x15" />
@@ -72,13 +65,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructor._7Kt" />
+      <module name="x15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._7Kt" />
         <item itemvalue="Kotlin._6Kt" />
         <item itemvalue="Kotlin._5Kt" />
         <item itemvalue="Kotlin._4Kt" />
         <item itemvalue="Kotlin._3Kt" />
-        <item itemvalue="Kotlin._2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -90,13 +90,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667128773903</updated>
-    </task>
-    <task id="LOCAL-00005" summary="[feat::] Add 1/4 if">
-      <created>1667131132071</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1667131132071</updated>
     </task>
     <task id="LOCAL-00006" summary="[feat::] Add 1/5 if">
       <created>1667131601551</created>
@@ -434,11 +427,17 @@
       <option name="project" value="LOCAL" />
       <updated>1667270498901</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="[feat::] Add 6 constructor">
+      <created>1667271407673</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1667271407673</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::] Add 11 do-while" />
     <MESSAGE value="[feat::] Add 12 while" />
     <MESSAGE value="[feat::] Add 13 do-while" />
     <MESSAGE value="[feat::] Add 14 do-while" />
@@ -463,6 +462,7 @@
     <MESSAGE value="[feat::] Add 3 constructor" />
     <MESSAGE value="[feat::] Add 4 constructor" />
     <MESSAGE value="[feat::] Add 5 constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 5 constructor" />
+    <MESSAGE value="[feat::] Add 6 constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 6 constructor" />
   </component>
 </project>
