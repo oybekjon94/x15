@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6d6450d-5473-4cb0-9594-fb9410dcbe3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exception/2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exception/4.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,14 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._3Kt">
-    <configuration name="_14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructor._14Kt" />
-      <module name="x15" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._4Kt">
     <configuration name="_15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="constructor._15Kt" />
       <module name="x15" />
@@ -73,13 +66,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception._4Kt" />
+      <module name="x15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._4Kt" />
         <item itemvalue="Kotlin._3Kt" />
         <item itemvalue="Kotlin._2Kt" />
         <item itemvalue="Kotlin._1Kt" />
         <item itemvalue="Kotlin._15Kt" />
-        <item itemvalue="Kotlin._14Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -91,20 +91,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667128773903</updated>
-    </task>
-    <task id="LOCAL-00015" summary="[feat::] Add 1/14 if">
-      <created>1667196375434</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1667196375434</updated>
-    </task>
-    <task id="LOCAL-00016" summary="[feat::] Add 1/15 if">
-      <created>1667196653375</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1667196653375</updated>
     </task>
     <task id="LOCAL-00017" summary="[feat::] Add 1 while">
       <created>1667197459879</created>
@@ -435,12 +421,24 @@
       <option name="project" value="LOCAL" />
       <updated>1667389948943</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="[feat::] Add 2 exception">
+      <created>1667390502868</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1667390502868</updated>
+    </task>
+    <task id="LOCAL-00065" summary="[feat::] Add 3 exception">
+      <created>1667390639338</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1667390639339</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::] Add 6 looping/ranges" />
-    <MESSAGE value="[feat::] Add 7 looping/ranges" />
     <MESSAGE value="[feat::] Add 8 looping/ranges" />
     <MESSAGE value="[feat::] Add 9 looping/ranges" />
     <MESSAGE value="[feat::] Add 10 looping/ranges" />
@@ -464,7 +462,9 @@
     <MESSAGE value="[feat::] Add 14 constructor" />
     <MESSAGE value="[feat::] Add 15 constructor" />
     <MESSAGE value="[feat::] Add 1 exception" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 1 exception" />
+    <MESSAGE value="[feat::] Add 2 exception" />
+    <MESSAGE value="[feat::] Add 3 exception" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 3 exception" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
