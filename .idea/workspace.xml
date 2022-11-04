@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6d6450d-5473-4cb0-9594-fb9410dcbe3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/maps/7.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/maps/6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/maps/6.kt" afterDir="false" />
+    <list default="true" id="b6d6450d-5473-4cb0-9594-fb9410dcbe3a" name="Changes" comment="[feat::] Add 7 maps">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/maps/7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/maps/7.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._6Kt">
-    <configuration name="_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maps._2Kt" />
-      <module name="x15" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._7Kt">
     <configuration name="_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="maps._3Kt" />
       <module name="x15" />
@@ -76,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maps._7Kt" />
+      <module name="x15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._7Kt" />
         <item itemvalue="Kotlin._6Kt" />
         <item itemvalue="Kotlin._5Kt" />
         <item itemvalue="Kotlin._4Kt" />
         <item itemvalue="Kotlin._3Kt" />
-        <item itemvalue="Kotlin._2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -94,13 +94,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667128773903</updated>
-    </task>
-    <task id="LOCAL-00065" summary="[feat::] Add 3 exception">
-      <created>1667390639338</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1667390639339</updated>
     </task>
     <task id="LOCAL-00066" summary="[feat::] Add 4 exception">
       <created>1667452723294</created>
@@ -438,11 +431,17 @@
       <option name="project" value="LOCAL" />
       <updated>1667545512113</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="[feat::] Add 7 maps">
+      <created>1667545857815</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1667545857815</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::] Add 12 lists" />
     <MESSAGE value="[feat::] Add 13 lists" />
     <MESSAGE value="[feat::] Add 14 lists" />
     <MESSAGE value="[feat::] Add 15 lists" />
@@ -467,7 +466,8 @@
     <MESSAGE value="[feat::] Add 4 maps" />
     <MESSAGE value="[feat::] Add 5 maps" />
     <MESSAGE value="[feat::] Add 6 maps" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 6 maps" />
+    <MESSAGE value="[feat::] Add 7 maps" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 7 maps" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
