@@ -1,11 +1,14 @@
 package maps
 
 fun main(){
-    val menu = mapOf("Shashlik" to 15000,
+    val menu = mutableMapOf("Shashlik" to 15000,
     "somsa" to 5000,
-    "osh" to 10000,
-    "shurva" to 6000)
+    "osh" to 10000)
 
-    println(menu.keys)
-    println(menu.values)
+    //add and change the value
+    println(menu)
+    menu.put("non", 2000)
+    println(menu)
+    menu["Shashlik"] = 18000
+    println(menu)
 }
