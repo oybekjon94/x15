@@ -39,14 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._2Kt">
-    <configuration name="_13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lists._13Kt" />
-      <module name="x15" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._3Kt">
     <configuration name="_14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lists._14Kt" />
       <module name="x15" />
@@ -75,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sets._3Kt" />
+      <module name="x15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._3Kt" />
         <item itemvalue="Kotlin._2Kt" />
         <item itemvalue="Kotlin._1Kt" />
         <item itemvalue="Kotlin._15Kt" />
         <item itemvalue="Kotlin._14Kt" />
-        <item itemvalue="Kotlin._13Kt" />
       </list>
     </recent_temporary>
   </component>
