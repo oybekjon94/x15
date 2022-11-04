@@ -2,7 +2,7 @@ package maps
 
 fun main(){
     val dictionary = mapOf("Hello" to "salom", "bye" to "hayr")
-    // only keys are output
+     // only keys are output
     for (key in dictionary.keys){
         println(key)
     }
