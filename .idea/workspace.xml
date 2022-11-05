@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6d6450d-5473-4cb0-9594-fb9410dcbe3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/when/3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/when/4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/when/6.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._5Kt">
-    <configuration name="_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="when._1Kt" />
-      <module name="x15" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._6Kt">
     <configuration name="_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="when._2Kt" />
       <module name="x15" />
@@ -77,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="when._6Kt" />
+      <module name="x15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._6Kt" />
         <item itemvalue="Kotlin._5Kt" />
         <item itemvalue="Kotlin._4Kt" />
         <item itemvalue="Kotlin._3Kt" />
         <item itemvalue="Kotlin._2Kt" />
-        <item itemvalue="Kotlin._1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -95,20 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667128773903</updated>
-    </task>
-    <task id="LOCAL-00129" summary="[feat::] Add 6 property">
-      <created>1667629157649</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1667629157649</updated>
-    </task>
-    <task id="LOCAL-00130" summary="[feat::] Add 7 property">
-      <created>1667630190063</created>
-      <option name="number" value="00130" />
-      <option name="presentableId" value="LOCAL-00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1667630190063</updated>
     </task>
     <task id="LOCAL-00131" summary="[feat::] Add 8 property">
       <created>1667630811296</created>
@@ -439,12 +423,24 @@
       <option name="project" value="LOCAL" />
       <updated>1667674373815</updated>
     </task>
-    <option name="localTasksCounter" value="178" />
+    <task id="LOCAL-00178" summary="[feat::] Add 3 when">
+      <created>1667675087062</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1667675087062</updated>
+    </task>
+    <task id="LOCAL-00179" summary="[feat::] Add 4 when">
+      <created>1667675316325</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1667675316326</updated>
+    </task>
+    <option name="localTasksCounter" value="180" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::] Add 8 namedAndDefaultArgument" />
-    <MESSAGE value="[feat::] Add 9 namedAndDefaultArgument" />
     <MESSAGE value="[feat::] Add 10 namedAndDefaultArgument" />
     <MESSAGE value="[feat::] Add 11 namedAndDefaultArgument" />
     <MESSAGE value="[feat::] Add 12 namedAndDefaultArgument" />
@@ -468,7 +464,9 @@
     <MESSAGE value="[feat::] Add 15 overloading" />
     <MESSAGE value="[feat::] Add 1 when" />
     <MESSAGE value="[feat::] Add 2 when" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 2 when" />
+    <MESSAGE value="[feat::] Add 3 when" />
+    <MESSAGE value="[feat::] Add 4 when" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 4 when" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
