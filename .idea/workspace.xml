@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6d6450d-5473-4cb0-9594-fb9410dcbe3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extension/4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extension/5.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._4Kt">
-    <configuration name="_15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="property._15Kt" />
-      <module name="x15" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._5Kt">
     <configuration name="_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="extension._1Kt" />
       <module name="x15" />
@@ -76,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extension._5Kt" />
+      <module name="x15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._5Kt" />
         <item itemvalue="Kotlin._4Kt" />
         <item itemvalue="Kotlin._3Kt" />
         <item itemvalue="Kotlin._2Kt" />
         <item itemvalue="Kotlin._1Kt" />
-        <item itemvalue="Kotlin._15Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -94,13 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667128773903</updated>
-    </task>
-    <task id="LOCAL-00093" summary="[feat::] Add 1 sets">
-      <created>1667528817193</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1667528817195</updated>
     </task>
     <task id="LOCAL-00094" summary="[feat::] Add 2 sets">
       <created>1667529021822</created>
@@ -438,11 +430,17 @@
       <option name="project" value="LOCAL" />
       <updated>1667635003936</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="[feat::] Add 4 extension">
+      <created>1667641636340</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1667641636340</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::] Add 9 maps" />
     <MESSAGE value="[feat::] Add 10 maps" />
     <MESSAGE value="[feat::] Add 11 maps" />
     <MESSAGE value="[feat::] Add 12 maps" />
@@ -467,7 +465,8 @@
     <MESSAGE value="[feat::] Add 1 extension" />
     <MESSAGE value="[feat::] Add 2 extension" />
     <MESSAGE value="[feat::] Add 3 extension" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 3 extension" />
+    <MESSAGE value="[feat::] Add 4 extension" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 4 extension" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
