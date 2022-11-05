@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6d6450d-5473-4cb0-9594-fb9410dcbe3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/property/12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/property/13.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._12Kt">
+  <component name="RunManager" selected="Kotlin._13Kt">
     <configuration name="_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="property._10Kt" />
       <module name="x15" />
@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="property._8Kt" />
+    <configuration name="_13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="property._13Kt" />
       <module name="x15" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._13Kt" />
         <item itemvalue="Kotlin._12Kt" />
         <item itemvalue="Kotlin._11Kt" />
         <item itemvalue="Kotlin._10Kt" />
         <item itemvalue="Kotlin._9Kt" />
-        <item itemvalue="Kotlin._8Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -93,13 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667128773903</updated>
-    </task>
-    <task id="LOCAL-00086" summary="[feat::] Add 9 lists">
-      <created>1667473784525</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1667473784525</updated>
     </task>
     <task id="LOCAL-00087" summary="[feat::] Add 10 lists">
       <created>1667473910477</created>
@@ -437,11 +430,17 @@
       <option name="project" value="LOCAL" />
       <updated>1667631603002</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="[feat::] Add 12 property">
+      <created>1667631890603</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1667631890603</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::] Add 2 maps" />
     <MESSAGE value="[feat::] Add 3 maps" />
     <MESSAGE value="[feat::] Add 4 maps" />
     <MESSAGE value="[feat::] Add 5 maps" />
@@ -466,7 +465,8 @@
     <MESSAGE value="[feat::] Add 9 property" />
     <MESSAGE value="[feat::] Add 10 property" />
     <MESSAGE value="[feat::] Add 11 property" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 11 property" />
+    <MESSAGE value="[feat::] Add 12 property" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 12 property" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
