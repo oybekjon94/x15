@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6d6450d-5473-4cb0-9594-fb9410dcbe3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/namedAndDefaultArgument/7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/namedAndDefaultArgument/8.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,14 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._7Kt">
-    <configuration name="_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="namedAndDefaultArgument._3Kt" />
-      <module name="x15" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._8Kt">
     <configuration name="_4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="namedAndDefaultArgument._4Kt" />
       <module name="x15" />
@@ -76,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="namedAndDefaultArgument._8Kt" />
+      <module name="x15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._8Kt" />
         <item itemvalue="Kotlin._7Kt" />
         <item itemvalue="Kotlin._6Kt" />
         <item itemvalue="Kotlin._5Kt" />
         <item itemvalue="Kotlin._4Kt" />
-        <item itemvalue="Kotlin._3Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -94,13 +94,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667128773903</updated>
-    </task>
-    <task id="LOCAL-00103" summary="[feat::] Add 11 sets">
-      <created>1667540627296</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1667540627297</updated>
     </task>
     <task id="LOCAL-00104" summary="[feat::] Add 12 sets">
       <created>1667541489699</created>
@@ -438,11 +431,17 @@
       <option name="project" value="LOCAL" />
       <updated>1667659138541</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="[feat::] Add 7 namedAndDefaultArgument">
+      <created>1667659449340</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1667659449340</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::] Add 4 property" />
     <MESSAGE value="[feat::] Add 5 property" />
     <MESSAGE value="[feat::] Add 6 property" />
     <MESSAGE value="[feat::] Add 7 property" />
@@ -467,7 +466,8 @@
     <MESSAGE value="[feat::] Add 4 namedAndDefaultArgument" />
     <MESSAGE value="[feat::] Add 5 namedAndDefaultArgument" />
     <MESSAGE value="[feat::] Add 6 namedAndDefaultArgument" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 6 namedAndDefaultArgument" />
+    <MESSAGE value="[feat::] Add 7 namedAndDefaultArgument" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 7 namedAndDefaultArgument" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
