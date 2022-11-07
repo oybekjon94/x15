@@ -6,16 +6,19 @@ You declare a type to be nullable by adding a question mark after it:
  */
 class Person2(val name: String)
 fun main() {
-    var name: String = "oybek"
-    name = null // this is not
+    //var name: String = "oybek"
+    ///name = null // this is not
     var name2: String? = "oybek"
     name2 = null
-    var age: Int = 32
-    age = null // this is not
+    //var age: Int = 32
+    //age = null // this is not
     var age2: Int? = 32
     age2 = null
-    var person: Person2 = ("oybek")
-    person = null // this not
+    //var person: Person2 = ("oybek")
+    //person = null // this not
     var person2: Person2? = Person2("oybek")
     person2 = null
+    println(name2)
+    println(age2)
+    println(person2)
 }
