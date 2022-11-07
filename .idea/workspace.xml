@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6d6450d-5473-4cb0-9594-fb9410dcbe3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/nullable/3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/nullable/5.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._4Kt">
-    <configuration name="_15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataClass._15Kt" />
-      <module name="x15" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._5Kt">
     <configuration name="_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nullable._1Kt" />
       <module name="x15" />
@@ -76,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nullable._5Kt" />
+      <module name="x15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._5Kt" />
         <item itemvalue="Kotlin._4Kt" />
         <item itemvalue="Kotlin._3Kt" />
         <item itemvalue="Kotlin._1Kt" />
         <item itemvalue="Kotlin._2Kt" />
-        <item itemvalue="Kotlin._15Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -94,20 +93,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667128773903</updated>
-    </task>
-    <task id="LOCAL-00173" summary="[feat::] Add 13 overloading">
-      <created>1667673133418</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1667673133418</updated>
-    </task>
-    <task id="LOCAL-00174" summary="[feat::] Add 14 overloading">
-      <created>1667673587078</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1667673587078</updated>
     </task>
     <task id="LOCAL-00175" summary="[feat::] Add 15 overloading">
       <created>1667673812385</created>
@@ -438,12 +423,24 @@
       <option name="project" value="LOCAL" />
       <updated>1667726210343</updated>
     </task>
-    <option name="localTasksCounter" value="222" />
+    <task id="LOCAL-00222" summary="[feat::] Add 3 nullable">
+      <created>1667792157901</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1667792157902</updated>
+    </task>
+    <task id="LOCAL-00223" summary="[feat::] Add 4 nullable">
+      <created>1667792264825</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1667792264825</updated>
+    </task>
+    <option name="localTasksCounter" value="224" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::] Add 8 enum" />
-    <MESSAGE value="[feat::] Add 9 enum" />
     <MESSAGE value="[feat::] Add 10 enum" />
     <MESSAGE value="[feat::] Add 11 enum" />
     <MESSAGE value="[feat::] Add 12 enum" />
@@ -467,7 +464,9 @@
     <MESSAGE value="[feat::] Add 15 data class" />
     <MESSAGE value="[feat::] Add 1 nullable" />
     <MESSAGE value="[feat::] Add 2 nullable" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 2 nullable" />
+    <MESSAGE value="[feat::] Add 3 nullable" />
+    <MESSAGE value="[feat::] Add 4 nullable" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 4 nullable" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
