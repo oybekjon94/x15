@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6d6450d-5473-4cb0-9594-fb9410dcbe3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/generic/4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/generic/5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extension properties/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extension properties/1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +42,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._5Kt">
-    <configuration name="_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic._1Kt" />
+  <component name="RunManager" selected="Kotlin._1Kt (1)">
+    <configuration name="_1Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extension properties._1Kt" />
       <module name="x15" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._1Kt (1)" />
         <item itemvalue="Kotlin._5Kt" />
         <item itemvalue="Kotlin._4Kt" />
         <item itemvalue="Kotlin._3Kt" />
         <item itemvalue="Kotlin._2Kt" />
-        <item itemvalue="Kotlin._1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -96,13 +96,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667128773903</updated>
-    </task>
-    <task id="LOCAL-00192" summary="[feat::] Add 3 enum">
-      <created>1667692777925</created>
-      <option name="number" value="00192" />
-      <option name="presentableId" value="LOCAL-00192" />
-      <option name="project" value="LOCAL" />
-      <updated>1667692777925</updated>
     </task>
     <task id="LOCAL-00193" summary="[feat::] Add 4 enum">
       <created>1667693360156</created>
@@ -440,11 +433,17 @@
       <option name="project" value="LOCAL" />
       <updated>1668144032133</updated>
     </task>
-    <option name="localTasksCounter" value="241" />
+    <task id="LOCAL-00241" summary="[feat::] Add 4 generics">
+      <created>1668147883025</created>
+      <option name="number" value="00241" />
+      <option name="presentableId" value="LOCAL-00241" />
+      <option name="project" value="LOCAL" />
+      <updated>1668147883025</updated>
+    </task>
+    <option name="localTasksCounter" value="242" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::] Add 11 data class" />
     <MESSAGE value="[feat::] Add 12 data class" />
     <MESSAGE value="[feat::] Add 13 data class" />
     <MESSAGE value="[feat::] Add 14 data class" />
@@ -469,7 +468,8 @@
     <MESSAGE value="[feat::] Add 1 generics" />
     <MESSAGE value="[feat::] Add 2 generics" />
     <MESSAGE value="[feat::] Add 3 generics" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 3 generics" />
+    <MESSAGE value="[feat::] Add 4 generics" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 4 generics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
