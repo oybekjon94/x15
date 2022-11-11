@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6d6450d-5473-4cb0-9594-fb9410dcbe3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extension properties/1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extension properties/1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extension properties/4.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._3Kt (1)">
+  <component name="RunManager" selected="Kotlin._4Kt (1)">
     <configuration name="_1Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="extension properties._1Kt" />
       <module name="x15" />
@@ -64,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic._4Kt" />
+    <configuration name="_4Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extension properties._4Kt" />
       <module name="x15" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._4Kt (1)" />
         <item itemvalue="Kotlin._3Kt (1)" />
         <item itemvalue="Kotlin._2Kt (1)" />
         <item itemvalue="Kotlin._1Kt (1)" />
         <item itemvalue="Kotlin._5Kt" />
-        <item itemvalue="Kotlin._4Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -96,27 +95,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667128773903</updated>
-    </task>
-    <task id="LOCAL-00193" summary="[feat::] Add 4 enum">
-      <created>1667693360156</created>
-      <option name="number" value="00193" />
-      <option name="presentableId" value="LOCAL-00193" />
-      <option name="project" value="LOCAL" />
-      <updated>1667693360156</updated>
-    </task>
-    <task id="LOCAL-00194" summary="[feat::] Add 5 enum">
-      <created>1667693661295</created>
-      <option name="number" value="00194" />
-      <option name="presentableId" value="LOCAL-00194" />
-      <option name="project" value="LOCAL" />
-      <updated>1667693661295</updated>
-    </task>
-    <task id="LOCAL-00195" summary="[feat::] Add 6 enum">
-      <created>1667693848448</created>
-      <option name="number" value="00195" />
-      <option name="presentableId" value="LOCAL-00195" />
-      <option name="project" value="LOCAL" />
-      <updated>1667693848449</updated>
     </task>
     <task id="LOCAL-00196" summary="[feat::] Add 7 enum">
       <created>1667694524217</created>
@@ -440,13 +418,31 @@
       <option name="project" value="LOCAL" />
       <updated>1668147883025</updated>
     </task>
-    <option name="localTasksCounter" value="242" />
+    <task id="LOCAL-00242" summary="[feat::] Add 1 extension properties">
+      <created>1668184954503</created>
+      <option name="number" value="00242" />
+      <option name="presentableId" value="LOCAL-00242" />
+      <option name="project" value="LOCAL" />
+      <updated>1668184954503</updated>
+    </task>
+    <task id="LOCAL-00243" summary="[feat::] Add 2 extension properties">
+      <created>1668185025103</created>
+      <option name="number" value="00243" />
+      <option name="presentableId" value="LOCAL-00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1668185025103</updated>
+    </task>
+    <task id="LOCAL-00244" summary="[feat::] Add 3 extension properties">
+      <created>1668185096981</created>
+      <option name="number" value="00244" />
+      <option name="presentableId" value="LOCAL-00244" />
+      <option name="project" value="LOCAL" />
+      <updated>1668185096981</updated>
+    </task>
+    <option name="localTasksCounter" value="245" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::] Add 12 data class" />
-    <MESSAGE value="[feat::] Add 13 data class" />
-    <MESSAGE value="[feat::] Add 14 data class" />
     <MESSAGE value="[feat::] Add 15 data class" />
     <MESSAGE value="[feat::] Add 1 nullable" />
     <MESSAGE value="[feat::] Add 2 nullable" />
@@ -469,7 +465,10 @@
     <MESSAGE value="[feat::] Add 2 generics" />
     <MESSAGE value="[feat::] Add 3 generics" />
     <MESSAGE value="[feat::] Add 4 generics" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 4 generics" />
+    <MESSAGE value="[feat::] Add 1 extension properties" />
+    <MESSAGE value="[feat::] Add 2 extension properties" />
+    <MESSAGE value="[feat::] Add 3 extension properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 3 extension properties" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
