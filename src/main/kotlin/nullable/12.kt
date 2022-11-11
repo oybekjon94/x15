@@ -5,5 +5,7 @@ fun main(){
     var s2: String? = "GeeksforGeeks"
 
     s2 = null //no compiler error
-    println(s2)  //compiler error because string can be null
+    //println(s2.length)  //compiler error because string can be null
+
+    println(s2)
 }
