@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6d6450d-5473-4cb0-9594-fb9410dcbe3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extension properties/5.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/extension properties/6.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._5Kt (1)">
-    <configuration name="_1Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extension properties._1Kt" />
-      <module name="x15" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._6Kt">
     <configuration name="_2Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="extension properties._2Kt" />
       <module name="x15" />
@@ -77,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extension properties._6Kt" />
+      <module name="x15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._6Kt" />
         <item itemvalue="Kotlin._5Kt (1)" />
         <item itemvalue="Kotlin._4Kt (1)" />
         <item itemvalue="Kotlin._3Kt (1)" />
         <item itemvalue="Kotlin._2Kt (1)" />
-        <item itemvalue="Kotlin._1Kt (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -95,13 +94,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667128773903</updated>
-    </task>
-    <task id="LOCAL-00197" summary="[feat::] Add 8 enum">
-      <created>1667695261914</created>
-      <option name="number" value="00197" />
-      <option name="presentableId" value="LOCAL-00197" />
-      <option name="project" value="LOCAL" />
-      <updated>1667695261914</updated>
     </task>
     <task id="LOCAL-00198" summary="[feat::] Add 9 enum">
       <created>1667696418016</created>
@@ -439,11 +431,17 @@
       <option name="project" value="LOCAL" />
       <updated>1668185227280</updated>
     </task>
-    <option name="localTasksCounter" value="246" />
+    <task id="LOCAL-00246" summary="[feat::] Add 5 extension properties">
+      <created>1668334046468</created>
+      <option name="number" value="00246" />
+      <option name="presentableId" value="LOCAL-00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1668334046469</updated>
+    </task>
+    <option name="localTasksCounter" value="247" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::] Add 1 nullable" />
     <MESSAGE value="[feat::] Add 2 nullable" />
     <MESSAGE value="[feat::] Add 3 nullable" />
     <MESSAGE value="[feat::] Add 4 nullable" />
@@ -468,7 +466,8 @@
     <MESSAGE value="[feat::] Add 2 extension properties" />
     <MESSAGE value="[feat::] Add 3 extension properties" />
     <MESSAGE value="[feat::] Add 4 extension properties" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 4 extension properties" />
+    <MESSAGE value="[feat::] Add 5 extension properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 5 extension properties" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
